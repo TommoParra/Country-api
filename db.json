@@ -14,5 +14,20 @@
     { "name": "Greece", "code": "GR" },
     { "name": "Hungary", "code": "HU" },
     { "name": "Ireland", "code": "IE" },
+    { "name": "Italy", "code": "IT" },
+    { "name": "Latvia", "code": "LV" },
+    { "name": "Lithuania", "code": "LT" },
+    { "name": "Luxembourg", "code": "LU" },
+    { "name": "Malta", "code": "MT" },
+    { "name": "Netherlands", "code": "NL" },
+    { "name": "Poland", "code": "PL" },
+    { "name": "Portugal", "code": "PT" },
+    { "name": "Romania", "code": "RO" },
+    { "name": "Slovakia", "code": "SK" },
+    { "name": "Slovenia", "code": "SI" },
+    { "name": "Spain", "code": "ES" },
+    { "name": "Sweden", "code": "SE" },
+    { "name": "United Kingdom", "code": "GB" },
+    { "name": "United States", "code": "US" }
   ]
 }
