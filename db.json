@@ -26,7 +26,6 @@
     { "name": "Spain", "code": "ES" },
     { "name": "Sweden", "code": "SE" },
     { "name": "United Kingdom", "code": "GB" },
-    { "name": "United States", "code": "US" },
-    { "name": "Canada", "code": "CA" }
+    { "name": "United States", "code": "US" }
   ]
 }
